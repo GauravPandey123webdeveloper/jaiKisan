@@ -1,0 +1,32 @@
+{
+  "name": "jaikisan",
+  "version": "1.0.0",
+  "description": "this is the weekend project jai kisan and i am going to perform CRUD operation on it ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauravPandey123webdeveloper/jaiKisan.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "CRUD",
+    "operations"
+  ],
+  "author": "Gaurav Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauravPandey123webdeveloper/jaiKisan/issues"
+  },
+  "homepage": "https://github.com/GauravPandey123webdeveloper/jaiKisan#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.1",
+    "uuid": "^9.0.0"
+  }
+}
